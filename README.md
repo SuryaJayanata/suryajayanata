@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.JPG" alt="Profile Picture" width="500"  />
-</p>
 
 # 👋 Hi, I'm **Surya Jayanata**
 
