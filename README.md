@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./portoimg.png" alt="Profile Picture" width="300" style="border-radius: 50%;" />
+  <img src="./banner.JPG" alt="Profile Picture" width="500"  />
 </p>
 
 # 👋 Hi, I'm **Surya Jayanata**
