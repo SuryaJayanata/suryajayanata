@@ -1,65 +1,59 @@
 # 👋 Hi, I'm **Surya Jayanata**
 
-### Junior Web Developer | Junior Mobile Developer | Junior UI/UX Designer  
+### UI/UX & Web Designer | UX Researcher | Frontend Developer 
 
 ---
 
 ## 🧑‍💻 About Me
-I am an aspiring developer focusing on web development and UI/UX design.  
-I enjoy exploring new technologies, building projects, and improving my skills in both design and development.  
-Currently, I’m strengthening my abilities across front-end, back-end, and UI/UX to create better digital experiences.
+I am a **Digital Product Creator** who bridges the gap between user psychology, high-end aesthetics, and clean execution. I don't just design interfaces—I research user behavior, map out intuitive experiences, and bring them to life through functional web development.
 
----
-
-
-
-## 🚀 Projects
-- **Aether App** – A web-based anonymous messaging app with Spotify integration.  
-- **eduSPACE** – A Learning Management System (LMS) for digital learning, including materials, assignments, and class management.
+With a deep passion for the entire product lifecycle, I focus on transforming complex problems into pixel-perfect, responsive, and high-performance digital experiences.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Databases
+### 🎨 UI/UX, Web Design & Research
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
 
-### Frameworks & Libraries
+### 💻 Frontend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,nextjs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
+</p>
 
-  
-  <!-- CodeIgniter pakai Simple Icons -->
+### ⚙️ Backend, Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,mysql,postgres" />
+  <!-- CodeIgniter using Simple Icons -->
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="48" />
-
 </p>
 
-### Tools & Design
+### 🧰 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,figma,ps,github,git" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,git,github" />
 </p>
 
 ---
 
 ## 🌐 Social Links
 <p>
-  <a href="https://www.linkedin.com/in/surya-jayanata-29872636b/">
+  <a href="https://www.linkedin.com/in/surya-jayanata-29872636b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
 
-  <a href="https://www.instagram.com/suryajayanata/?__pwa=1">
+  <a href="https://www.instagram.com/suryajayanata/?__pwa=1" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://facebook.com/SuryaJayanata">
+  <a href="https://facebook.com/SuryaJayanata" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
   </a>
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@SuryaJayanata">
+  <a href="https://www.youtube.com/@SuryaJayanata" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" />
   </a>
 </p>
@@ -67,4 +61,4 @@ Currently, I’m strengthening my abilities across front-end, back-end, and UI/U
 ---
 
 ## 📌 Thanks for Visiting!
-Feel free to explore my repositories or connect with me through my social media.
+I'm always open to collaborating on innovative web design and development projects. Feel free to explore my repositories or connect with me through social media!
