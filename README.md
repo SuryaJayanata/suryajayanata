@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Surya Jayanata**
 
-### UI/UX & Web Designer | UX Researcher | Frontend Developer 
+### UI/UX & Web Designer | UX Researcher | Frontend Developer 
 
 ---
 
@@ -15,47 +15,49 @@ With a deep passion for the entire product lifecycle, I focus on transforming co
 
 ### 🎨 UI/UX, Web Design & Research
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps" />
+  <!-- Main Design & Research Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,webflow" />
+  <!-- Animation, Prototyping & Utilities -->
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" alt="Framer" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" alt="GSAP" />
 </p>
 
 ### 💻 Frontend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
 </p>
 
 ### ⚙️ Backend, Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,mysql,postgres" />
-  <!-- CodeIgniter using Simple Icons -->
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="48" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,mysql,postgres" />
+  <!-- CodeIgniter using Simple Icons -->
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="48" alt="CodeIgniter" />
 </p>
 
 ### 🧰 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,git,github" />
 </p>
 
 ---
 
 ## 🌐 Social Links
 <p>
-  <a href="https://www.linkedin.com/in/surya-jayanata-29872636b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
+  <a href="https://www.linkedin.com/in/surya-jayanata-29872636b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-  <a href="https://www.instagram.com/suryajayanata/?__pwa=1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
-  </a>
+  <a href="https://www.instagram.com/suryajayanata/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
-  <!-- Facebook -->
-  <a href="https://facebook.com/SuryaJayanata" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
-  </a>
+  <a href="https://facebook.com/SuryaJayanata" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@SuryaJayanata" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" />
-  </a>
+  <a href="https://www.youtube.com/@SuryaJayanata" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
