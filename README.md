@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/hola.gif" width="100%" alt="Header Animation" />
+</div>
+
 # 👋 Hi, I'm **Surya Jayanata**
 
 ### UI/UX & Web Designer | UX Researcher | Frontend Developer 
