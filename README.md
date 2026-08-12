@@ -1,70 +1,77 @@
 <div align="center">
-  <img src="./assets/hola.gif" width="100%" alt="Header Animation" />
+
+
+<br />
+
+# Surya Jayanata
+
+**UI/UX Designer · Web Designer · Frontend Developer**
+
+<sub>Turning user insight into clean, intentional digital experiences.</sub>
+
+<br />
+
+<a href="https://www.linkedin.com/in/surya-jayanata-29872636b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/suryajayanata/?__pwa=1" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/SuryaJayanata" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://www.youtube.com/@SuryaJayanata" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" /></a>
+
 </div>
 
-# 👋 Hi, I'm **Surya Jayanata**
+<br />
 
-### UI/UX & Web Designer | UX Researcher | Frontend Developer 
+## About
 
----
+I'm a digital product creator working at the intersection of user psychology, visual craft, and clean engineering. My process starts with research — understanding how people think and behave — before it ever touches a pixel or a line of code.
 
-## 🧑‍💻 About Me
-I am a **Digital Product Creator** who bridges the gap between user psychology, high-end aesthetics, and clean execution. I don't just design interfaces—I research user behavior, map out intuitive experiences, and bring them to life through functional web development.
+I care about the full lifecycle of a product: from mapping user flows and wireframes, to shaping high-fidelity interfaces, to shipping responsive, performant front-end code that actually holds up in production.
 
-With a deep passion for the entire product lifecycle, I focus on transforming complex problems into pixel-perfect, responsive, and high-performance digital experiences.
+<br />
 
----
+## Stack
 
-## 🛠 Tech Stack
+**Design & Research**
+<br />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,webflow" />
+<img src="https://cdn.simpleicons.org/framer/000000" width="40" alt="Framer" />
+<img src="https://cdn.simpleicons.org/greensock/000000" width="40" alt="GSAP" />
 
-### 🎨 UI/UX, Web Design & Research
-<p>
-  <!-- Main Design & Research Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,webflow" />
-  <!-- Animation, Prototyping & Utilities -->
-  <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" alt="Framer" />
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" alt="GSAP" />
-</p>
+**Frontend**
+<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
 
-### 💻 Frontend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" />
-</p>
+**Backend & Data**
+<br />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,python,mysql,postgres" />
+<img src="https://cdn.simpleicons.org/codeigniter/000000" width="40" alt="CodeIgniter" />
 
-### ⚙️ Backend, Languages & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,mysql,postgres" />
-  <!-- CodeIgniter using Simple Icons -->
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="48" alt="CodeIgniter" />
-</p>
+**Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,git,github" />
 
-### 🧰 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,git,github" />
-</p>
+<br />
 
----
+## Currently
 
-## 🌐 Social Links
-<p>
-  <a href="https://www.linkedin.com/in/surya-jayanata-29872636b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <a href="https://www.instagram.com/suryajayanata/?__pwa=1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+**Focused on**
+Design systems, motion-driven interfaces, and research-backed UX decisions.
 
-  <a href="https://facebook.com/SuryaJayanata" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+</td>
+<td width="50%" valign="top">
 
-  <a href="https://www.youtube.com/@SuryaJayanata" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+**Open to**
+Freelance & collaborative projects in web design and product development.
 
----
+</td>
+</tr>
+</table>
 
-## 📌 Thanks for Visiting!
-I'm always open to collaborating on innovative web design and development projects. Feel free to explore my repositories or connect with me through social media!
+<br />
+
+<div align="center">
+<sub>Thanks for stopping by — always happy to connect and collaborate.</sub>
+</div>
