@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d6bGI5azh6ZzFrbGV3c3o0ZnFkZ2JrdGNjZjhiNGViazV1YThrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZilY5vJcPHLOg/giphy.gif" width="480" alt="Howling Wolf GIF" />
 
 <br />
 
