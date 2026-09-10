@@ -6,7 +6,6 @@
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314xkbimh6em7evdsgrfy6rhylny&theme=spotify&width=550&radius=5&profile=off&accent_color=ffffff&logo_color=ffffff" alt="Spotify recently played" />
   </a>
 </td>
-<td width="20"></td>
 <td valign="middle" align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdpN3N6ZjhkaWltb2ZuZjRuM21xeGxyMzh4OTFqaDFibTAya3J2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p71BYIPogqBPy/giphy.gif" width="380" alt="lofi" />
 
