@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Tabel untuk menyejajarkan Spotify dan GIF secara horizontal -->
+
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="middle" align="center" width="550">
@@ -8,12 +8,16 @@
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314xkbimh6em7evdsgrfy6rhylny&theme=spotify&width=550&radius=5&profile=off&accent_color=ffffff&logo_color=ffffff" alt="Spotify recently played" />
   </a>
 </td>
-<td width="20"></td> <!-- Jarak spasi di antara kedua elemen -->
+<td width="20"></td>
 <td valign="middle" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d6bGI5azh6ZzFrbGV3c3o0ZnFkZ2JrdGNjZjhiNGViazV1YThrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZilY5vJcPHLOg/giphy.gif" width="380" alt="Howling Wolf GIF" />
 </td>
 </tr>
 </table>
+## My Latest Dribbble Shots
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
