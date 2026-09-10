@@ -16,11 +16,6 @@
 
 </div>
 
-## My Latest Dribbble Shots
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br />
 
 <div align="center">
