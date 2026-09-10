@@ -1,5 +1,4 @@
 <div align="center">
-
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="middle" align="center" width="550">
@@ -9,7 +8,8 @@
 </td>
 <td width="20"></td>
 <td valign="middle" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d6bGI5azh6ZzFrbGV3c3o0ZnFkZ2JrdGNjZjhiNGViazV1YThrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZilY5vJcPHLOg/giphy.gif" width="380" alt="Howling Wolf GIF" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdpN3N6ZjhkaWltb2ZuZjRuM21xeGxyMzh4OTFqaDFibTAya3J2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p71BYIPogqBPy/giphy.gif" width="380" alt="lofi" />
+
 </td>
 </tr>
 </table>
