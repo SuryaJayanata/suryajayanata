@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="middle" align="center" width="550">
@@ -14,12 +13,17 @@
 </td>
 </tr>
 </table>
+
+</div>
+
 ## My Latest Dribbble Shots
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+
+<div align="center">
 
 # Surya Jayanata
 
