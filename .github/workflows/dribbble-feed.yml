@@ -19,4 +19,4 @@ jobs:
       - name: Pull RSS Feed
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dribbble.com/surya-j/shots.rss"
+          feed_list: "https://rsshub.app/dribbble/user/surya-j"
